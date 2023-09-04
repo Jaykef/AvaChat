@@ -44,24 +44,24 @@ getDIDApiKey.addEventListener('input', () => {
 
 // https source urls for avatar images
 const sourceUrlMap = {
-  Ava: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/ava.png',
-  Amira: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/amira.png',
-  Emma: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/emma.png',
   Jaward: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/jaward.png',
   Aquilla: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/aquilla.png',
-  Liumae: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/liumae.png',
+  Amira: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/amira.png',
+  Joker: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/joker.png',
   Dong: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/dong.png',
+  Emma: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/emma.png',
+  Liumae: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/liumae.png',
   Rabi: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/rabi.png'
 };
 
 const voiceUrlMap = {
-  Ava: 'en-US-JennyNeura',
-  Emma: 'en-US-JennyNeura',
-  Amira: 'en-ZA-LeahNeural',
-  Jaward: 'en-US-BrandonNeural',
+  Jaward: 'en-US-JasonNeural',
   Aquilla: 'zh-CN-XiaoyiNeural',
-  Liumae: 'zh-CN-XiaoxiaoNeural',
+  Amira: 'en-ZA-LeahNeural',
+  Joker: 'en-US-RogerNeural',
   Dong: 'zh-CN-YunjianNeural',
+  Emma: 'en-US-JennyNeura',
+  Liumae: 'zh-CN-XiaoxiaoNeural',
   Rabi: 'en-US-JennyNeural'
 };
 
