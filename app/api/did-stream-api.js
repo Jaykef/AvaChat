@@ -83,7 +83,7 @@ function updateAvatar() {
       updateSelectedAvatar(selectedVideo);
       const video = document.getElementById("talking-video");
       video.style.zIndex = 40;
-      video.src = `../videos/${selectedVideo}.mp4`;
+      video.src = `app/videos/${selectedVideo}.mp4`;
       video.pause();
     });
   });
@@ -91,7 +91,7 @@ function updateAvatar() {
 function updateSelectedAvatar(selectedVideo) {
   const video = document.getElementById("talking-video");
   video.style.zIndex = 40;
-  video.src = `../videos/${selectedVideo}.mp4`;
+  video.src = `app/videos/${selectedVideo}.mp4`;
   video.pause();
 }
 function updateVoice() {
@@ -214,7 +214,7 @@ export async function sendConnectionRequest() {
     const videoSource = videoElement.src;
     const videoName = videoSource.split('/').pop().split('.').slice(0, -1).join('.');
     const selectedVideo = videoName;
-    talkVideo.src = `../videos/${selectedVideo}.mp4`;
+    talkVideo.src = `app/videos/${selectedVideo}.mp4`;
     const updatedSourceUrl = sourceUrlMap[selectedVideo];
     console.log(updatedSourceUrl);
     const sessionResponse = await fetchWithRetries(`https://api.d-id.com/talks/streams`, {
