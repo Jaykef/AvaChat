@@ -71,7 +71,7 @@ function createSentMessageElement() {
   sentMessageP.setAttribute('class', 'sent-message p-2 me-3 mb-2 text-white rounded-3 bg-primary');
 
   const senderImage = document.createElement('img');
-  senderImage.setAttribute('src', './images/default.jpg');
+  senderImage.setAttribute('src', 'app/images/default.jpg');
   senderImage.setAttribute('class', 'rounded-3 mt-1 sent-img');
   senderImage.setAttribute('alt', 'avatar 1');
   senderImage.setAttribute('height', '50');
@@ -113,8 +113,6 @@ avatarImages.forEach((img) => {
   });
 });
 
-// avatarImg.src = selectedImageSrc;
-
 // Sent text response
 const submitTextButton = document.getElementById('send-text-button');
 submitTextButton.onclick = async () => {
@@ -131,7 +129,7 @@ submitTextButton.onclick = async () => {
         responseDiv.classList.add("d-flex", "flex-row", "justify-content-start", "pt-2", "mb-2");
 
         const avatarImg = document.createElement("img");
-        avatarImg.src = selectedImageSrc || "./images/default.jpg";
+        avatarImg.src = selectedImageSrc || "app/images/default.jpg";
         avatarImg.classList.add("rounded-3", "mt-1", "received-img");
         avatarImg.alt = "avatar 1";
         avatarImg.height = 50;
