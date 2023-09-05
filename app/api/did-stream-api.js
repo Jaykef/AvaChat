@@ -58,7 +58,7 @@ const voiceUrlMap = {
   Jaward: 'en-US-JasonNeural',
   Aquilla: 'zh-CN-XiaoyiNeural',
   Amira: 'en-ZA-LeahNeural',
-  Joker: 'en-US-RogerNeural',
+  Joker: 'en-US-DavisNeural',
   Dong: 'zh-CN-YunjianNeural',
   Emma: 'en-US-JennyNeura',
   Liumae: 'zh-CN-XiaoxiaoNeural',
