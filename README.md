@@ -18,8 +18,10 @@ AvaChat - is a realtime AI chat demo with animated talking heads - it uses Large
 7. Input D-ID api key for video stream
    
    Limited Test D-ID api key: ```ZXBzcHZoZ3E1QG1vem1haWwuY29t:j0odp7FaPtyzv8xKR0PNZ```
+
    Get your own api key here <a href="https://studio.d-id.com/account-settings/" target="_blank">Here</a>
 9. Input API2D api key for text input
     
    Limited Test API2D api key: ```fk211042-RkTUyEROKzYa9HANKAxeMThU5pNRVNZJ```
+
    Get it <a href="https://api2d.com/" target="_blank">Here</a>
