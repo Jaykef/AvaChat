@@ -4,6 +4,13 @@ AvaChat - is a realtime AI chat demo with animated talking heads - it uses Large
 
 <img src="./demo/demo_cover.png" />
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+|     
+
+https://github.com/Jaykef/AvaChat/assets/11355002/7e2c83c0-55f4-41be-a167-392da98cd9af
+
+         | git status     | git status    |
 
 
 
