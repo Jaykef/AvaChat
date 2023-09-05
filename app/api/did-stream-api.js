@@ -48,8 +48,8 @@ const sourceUrlMap = {
   Aquilla: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/aquilla.png',
   Amira: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/amira.png',
   Joker: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/joker.png',
+  Sonia: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/sonia.png',
   Dong: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/dong.png',
-  Emma: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/emma.png',
   Liumae: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/liumae.png',
   Rabi: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/rabi.png'
 };
@@ -59,8 +59,8 @@ const voiceUrlMap = {
   Aquilla: 'zh-CN-XiaoyiNeural',
   Amira: 'en-ZA-LeahNeural',
   Joker: 'en-US-DavisNeural',
+  Sonia: 'en-IN-NeerjaNeural',
   Dong: 'zh-CN-YunjianNeural',
-  Emma: 'en-US-JennyNeura',
   Liumae: 'zh-CN-XiaoxiaoNeural',
   Rabi: 'en-US-JennyNeural'
 };
