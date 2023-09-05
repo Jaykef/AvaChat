@@ -5,7 +5,7 @@ AvaChat - is a realtime AI chat demo with animated talking heads - it uses Large
 <img src="./demo/demo_cover.png" />
 
 | Demo 1       | Demo 2         | Demo 3        | Demo 4 |
-|    :---:     |     :---:      |          :---: |
+|    :---:     |     :---:      |      :---:    | :---:  |
 | <video src="https://github.com/Jaykef/AvaChat/blob/main/demo/demo1.mp4" >  | <video src="https://github.com/Jaykef/AvaChat/blob/main/demo/demo4.mp4" >  | <video src="https://github.com/Jaykef/AvaChat/blob/main/demo/demo2.mp5" >    | <video src="https://github.com/Jaykef/AvaChat/blob/main/demo/demo3.mp4" > |
 
 
