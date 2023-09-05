@@ -50,8 +50,8 @@ const sourceUrlMap = {
   Joker: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/joker.png',
   Sonia: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/sonia.png',
   Dong: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/dong.png',
-  Liumae: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/liumae.png',
-  Rabi: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/rabi.png'
+  Sully: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/sully.png',
+  Neytiri: 'https://raw.githubusercontent.com/Jaykef/gradio-practice/main/neytiri.png'
 };
 
 const voiceUrlMap = {
@@ -61,8 +61,8 @@ const voiceUrlMap = {
   Joker: 'en-US-DavisNeural',
   Sonia: 'en-IN-NeerjaNeural',
   Dong: 'zh-CN-YunjianNeural',
-  Liumae: 'zh-CN-XiaoxiaoNeural',
-  Rabi: 'en-US-JennyNeural'
+  Sully: 'en-US-DavisNeural',
+  Neytiri: 'en-US-JennyNeural'
 };
 
 // Helper functions
