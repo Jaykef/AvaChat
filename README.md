@@ -4,7 +4,9 @@ AvaChat - is a realtime AI chat demo with animated talking heads - it uses Large
 
 <img src="./demo/demo_cover.png" />
 
-<video src="demo/demo1.mp4></video> <video src="demo/demo4.mp4></video> <video src="demo/demo2.mp4></video> <video src="demo/demo3.mp4></video>  
+https://github.com/Jaykef/AvaChat/assets/11355002/224e87d5-e5f1-4452-bca7-da7c31a6da61
+
+
 ## Installation
 1. Clone repo
    
