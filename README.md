@@ -12,7 +12,7 @@ AvaChat - is a realtime AI chat demo with animated talking heads - it uses Large
 
 | Demo 1       | Demo 2         | Demo 3        | Demo 4 |
 |    :---:     |     :---:      |      :---:    | :---:  |
-| <video src="https://github.com/Jaykef/AvaChat/assets/11355002/718478bf-71d6-4f4c-95c4-3ce445ce3fab">  | <video src="https://github.com/Jaykef/AvaChat/assets/11355002/56edcc08-05f0-4ca8-81d1-692037d24774" >  | <video src="https://github.com/Jaykef/AvaChat/assets/11355002/1f54c945-ac5b-4984-b430-6de891b8a41b" >    | <video src="https://github.com/Jaykef/AvaChat/assets/11355002/cc53247c-fbb9-421c-b97b-0c1badcbfe01" > |
+| <video src="https://github.com/Jaykef/AvaChat/assets/11355002/718478bf-71d6-4f4c-95c4-3ce445ce3fab">  | <video src="https://github.com/Jaykef/AvaChat/assets/11355002/27218bd1-ea69-4968-8c03-1e2dd69736f7" >  | <video src="https://github.com/Jaykef/AvaChat/assets/11355002/1f54c945-ac5b-4984-b430-6de891b8a41b" >    | <video src="https://github.com/Jaykef/AvaChat/assets/11355002/cc53247c-fbb9-421c-b97b-0c1badcbfe01" > |
 
 
 ## Installation
