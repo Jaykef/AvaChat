@@ -19,6 +19,7 @@ let lastBytesReceived;
 const videoSelect = document.getElementById("video-select");
 const avatarImages = document.querySelectorAll(".img-fluid");
 const talkVideo = document.getElementById("talking-video");
+talkVideo.setAttribute('playsinline');
 const talkingVid = document.getElementById("talking-vid");
 const iceStatusLabel = document.getElementById('ice-status-label');
 const iceGatheringStatusLabel = document.getElementById('ice-gathering-status-label');
