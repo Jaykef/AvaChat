@@ -124,6 +124,7 @@ function setVideoElement(stream) {
 function playIdleVideo() {
   talkVideo.srcObject = undefined;
   talkVideo.loop = true;
+  talkVideo.setAttribute('playsinline', true);
 }
 
 function stopAllStreams() {
