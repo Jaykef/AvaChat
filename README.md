@@ -34,6 +34,6 @@ AvaChat - is a realtime AI chat demo with animated talking heads - it uses Large
    Get API2D api key <a href="https://api2d.com/" target="_blank">Here</a>
 
 
-## Open Source License
+## License
 
 MIT License
