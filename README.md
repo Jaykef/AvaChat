@@ -1,6 +1,6 @@
 # AvaChat
 
-AvaChat - is a realtime AI chat demo with animated talking heads - it uses Large Language Models (GPT4, Cluade) as text inputs to D-ID's stable difussion video gen model (via D-ID stream api)
+AvaChat - is a realtime AI chat demo with animated talking heads - it uses Large Language Models (GPT4, Cluade) as text inputs to D-ID's stable difussion video gen model (via D-ID's stream api)
 
 <img src="./demo/demo_cover.png" />
 
