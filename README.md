@@ -18,13 +18,19 @@ AvaChat - is a realtime AI chat demo with animated talking heads - it uses Large
 ## Installation
 1. Clone repo
    
-   ``` git clone https://github.com/Jaykef/AvaChat.git``` 
+   ```
+   git clone https://github.com/Jaykef/AvaChat.git
+   ``` 
 3. Install node modules in root directory
    
-    ```npm install```
+    ```
+   npm install
+    ```
 5. Run app
    
-   ``` npm start ```
+   ```
+    npm start
+   ```
    Try app at http://localhost:8000/
 7. Input D-ID api key for video stream
    
