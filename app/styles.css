@@ -201,6 +201,9 @@ input:focus {
   overflow-y: auto;
   z-index: 99;
 }
+.col-sm-3::-webkit-scrollbar {
+    width: 0;
+}
 .desktop {
   position: fixed;
   bottom: 20px;
