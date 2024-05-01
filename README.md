@@ -36,6 +36,7 @@ AvaChat - is a realtime AI chat demo with animated talking heads - it uses Large
    
    Get your own api key here <a href="https://studio.d-id.com/account-settings/" target="_blank">Here</a>
 9. Api keys
+
    You can use either openAI api key or API2D api key for text generation:
    Get API2D api key <a href="https://api2d.com/" target="_blank">Here</a>
 
